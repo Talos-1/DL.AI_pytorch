@@ -1,6 +1,6 @@
-# DL.AI_pytorch
+# DeepLearning.AI PyTorch for Deep Learning Specialisation
 
-##PyTorch: Fundamentals
+## PyTorch: Fundamentals
 1. Getting Started with PyTorch
 2. The PyTorch Workflow
 3. Data Management in PyTorch
